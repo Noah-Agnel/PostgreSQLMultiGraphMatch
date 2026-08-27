@@ -1,0 +1,6 @@
+{
+    "csv_dir"   : "../data",
+    "output_path": "../temporal_mri_import",
+    "db_name"   : "panama_db",
+    "batch_size": 50000
+}
